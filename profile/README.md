@@ -31,15 +31,11 @@ LUMA nace de tres ideas: **Lugar** (dónde vivís), **Hogar** (cómo lo sentís)
 
 <div align="center">
 
-![LUMA stats](https://github-readme-stats.vercel.app/api?username=LUMA-GANG&show_icons=true&theme=transparent&title_color=0AA6C4&icon_color=0AA6C4&text_color=5A6B73&border_color=D7E1E5&hide_border=false)
-
-![LUMA streak](https://github-readme-streak-stats.herokuapp.com/?user=LUMA-GANG&theme=transparent&background=00000000&stroke=0AA6C4&ring=0AA6C4&fire=FFB020&currStreakLabel=0AA6C4&sideLabels=5A6B73&currStreakNum=0B1518&sideNums=0B1518&dates=8497A0&border=D7E1E5)
-
-![LUMA top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUMA-GANG&layout=compact&theme=transparent&title_color=0AA6C4&text_color=5A6B73&border_color=D7E1E5&hide_border=false)
+![LUMA metrics](profile/assets/metrics.svg)
 
 </div>
 
-> Cards autoactualizables, sin mantenimiento — jalan directo de la actividad pública de la org.
+> SVG generado por [GitHub Action propia](.github/workflows/metrics.yml) cada 12h — no depende de servicios externos caídos.
 
 ## Proyectos destacados
 
